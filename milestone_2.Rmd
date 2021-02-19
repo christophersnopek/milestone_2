@@ -1,0 +1,15 @@
+---
+title: "milestone_2"
+author: "Christopher Snopek"
+date: "2/19/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Exploring the MLB Draft by Chase Bookin. I thought this was a really neat project. I really love the navigating the minors tab. It has a lot of different variables tha you can change like max-min round and max- min year. One thing that I was confused on was the major league success tab. I thought the graph was hard to analyze especially because of the x axis. The other thing that I didn't really love was the map on the last tab. I would rather it had been a simpler map like what percentage of the population gets drafted in each state. I thought his was a little too complex.
+
+Aging curves of Major League Baseball Hitters by Diego Martinez.
+I liked how he began his project by explaining some awkward vocabulary in the project. I also liked the graph at the beginning that gave a good explanation on how prominent war actually is. One thing that I did not like was the large paragaphs on the first slide. I would have preferred that he had been as concise as possible.
